@@ -1,6 +1,6 @@
 {
   "name": "backspace to back",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "manifest_version": 2,
   "description": "map backspace to history.go(-1)",
   "homepage_url": "https://github.com/zhuangya/backspace-to-back",
